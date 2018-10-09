@@ -1,0 +1,1 @@
+Bir nesne kümesi içindeki elemanlara erişim ve elemanlar arasında dolaşma ihtiyaçları için kullanılır.
