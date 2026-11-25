@@ -1,0 +1,20 @@
+# Eclipse / IntelliJ / VS Code
+.project
+.classpath
+.settings/
+.factorypath
+bin/
+.idea/
+*.iml
+.vscode/
+
+# Derleme çıktıları
+target/
+out/
+*.class
+
+# Diğer
+*.log
+.env
+.DS_Store
+Thumbs.db
